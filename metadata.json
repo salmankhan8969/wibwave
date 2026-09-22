@@ -1,0 +1,6 @@
+{
+  "name": "Wibe Wave",
+  "description": "Wibe Wave - Chat & Party, have fun together with golden Arabian theme sign-in and interactive voice party experience.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
